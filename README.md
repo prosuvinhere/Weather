@@ -15,7 +15,11 @@ A front-end project focused on creating a music player.
 
 - Searching
 
+  <img width="1440" alt="Screenshot 2024-07-28 at 11 55 07 PM" src="https://github.com/user-attachments/assets/fa8188ec-4245-4017-be4f-9984d5ab403f">
+
 - Invalid Location
+
+  <img width="1440" alt="Screenshot 2024-07-28 at 11 55 39 PM" src="https://github.com/user-attachments/assets/0144d8f0-ea40-4514-b760-742f98dbf034">
 
 # Hi, I'm Suvin! 👋
 Former Toshiba Mitsubishi-Electric Industrial Systems Corporation Intern | B.Tech in Computer Science (VIT Vellore) | Skills: LLM, DSA, MERN, AWS
